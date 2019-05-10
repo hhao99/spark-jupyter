@@ -11,10 +11,10 @@ we need the following package installed to the system:
 2. Python 3.7
 
 ## pip and venv 
-$ python -m venv jupyter-spark
-$ activate the jupyter-spark
-$ pip install jupyter jupyterlab
-$ pip install py4j
+-> python -m venv jupyter-spark
+-> activate the jupyter-spark
+-> pip install jupyter jupyterlab
+-> pip install py4j
 
 ## install the data science toolbox
 * pip install numpy panda
