@@ -7,8 +7,8 @@ this is the repository for the pyspark
 we need the following package installed to the system:
 
 ## OS and pre-request 
-Linux or OSX
-Python 3.7
+1. Linux or OSX
+2. Python 3.7
 
 ## pip and venv 
 python -m venv jupyter-spark
@@ -17,8 +17,8 @@ pip install jupyter jupyterlab
 pip install py4j
 
 ## install the data science toolbox
-pip install numpy panda
-pip install bokeh
+* pip install numpy panda
+* pip install bokeh
 
 ## install jdk
 download the jdk from https://adoptopenjdk.net
